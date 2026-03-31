@@ -2,9 +2,9 @@
 models/**/*.bak
 models/**/*\~
 # Ignore build artifacts and other unnecessary files from ROS2 packages
-/**/build
-/**/install
-/**/log
+code/**/build
+code/**/install
+code/**/log
 
 /**/.idea
 # Ignore temporary files and directories
